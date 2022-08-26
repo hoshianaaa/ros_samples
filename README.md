@@ -1,5 +1,5 @@
 # ros_samples
-ros_samples
+ros_samples package
 
 ## multi_array
 
