@@ -3,7 +3,7 @@ ros_samples
 
 ## multi_array
 
-pub/sub array data (float64)   
+pub/sub array data (float32)   
 this repo's data is   
 
 ```
