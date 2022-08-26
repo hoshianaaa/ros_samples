@@ -1,28 +1,31 @@
-# python
+# Usage
+## python
 
-## publisher 
-
-```
-rosrun multi_array pub
-```
-
-## subscriber
+- publisher 
 
 ```
 rosrun multi_array pub
 ```
 
-# c++
-
-## publisher 
+- subscriber
 
 ```
 rosrun multi_array pub
 ```
 
-## subscriber 
+## c++
+
+- publisher 
+
+```
+rosrun multi_array pub
+```
+
+- subscriber 
 
 ```
 
 rosrun multi_array sub
 ```
+
+
